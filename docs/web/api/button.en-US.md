@@ -64,6 +64,12 @@ Available in large, medium (default) and small sizes.
 
 {{ size }}
 
+### Loading Style
+
+Loading styles for different color themes
+
+{{ loading }}
+
 ### Different shaped buttons
 
 Four shapes are provided: rectangle, square, rectangle with rounded corners, and circle.
